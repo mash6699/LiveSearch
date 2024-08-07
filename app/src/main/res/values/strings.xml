@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiveSearch</string>
+    <string name="network_error">No tienes conexión a internet</string>
+    <string name="search_placeholder">Buscar</string>
+    <string name="not_found">No hay se encontraron resultados</string>
+    <string name="enter_term">Ingresa el nombre del producto en la barra de búsqueda</string>
+    <string name="price_format">$%.2f%n</string>
+    <string name="filters">Filtros</string>
+</resources>
